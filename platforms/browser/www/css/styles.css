@@ -29,7 +29,7 @@
 
   padding: 6px 0px;
 }
-a.link img {
+.toolbar-inner a.link img {
     width: 35px;
 }
 .channelbeforeafter:after, .channelbeforeafter:before {
